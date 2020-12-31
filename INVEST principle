@@ -1,0 +1,34 @@
+INVEST PRINCIPLE
+
+I - independent
+N - negotiable
+V - valuable
+E - estimate
+T - testable
+
+user story#	user story description
+US-01		as a retail e-store application admin, i can reset the password
+		of a specific customer as per password guidelines so that the
+		transactions are done in a secure manner
+US-02		as a support team member of the e-store application, i can reset
+		the password of a specific customer as per password quidelines
+		
+this story given does not staisfy the I attribute because they are interdependent
+and overlapping
+
+user stories are written to be independent of each other as far as possible.
+
+revised story ---> As a e-store application admin and support team member
+of the e-store application, i can reset the password of a specific customer
+as per password guidelines so that banking is done in a secure manner. 
+
+negotiable:
+
+As a customer of the e-store, i can pay my bills online so that i need not hand over 
+cash while the item delivery is done. while paying online, the system should ask
+for the credentials
+
+revised one should be:
+as a customer of the e-store, i can pay my bills online so that the cash payment
+can be avoided.
+
