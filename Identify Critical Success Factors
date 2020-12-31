@@ -1,0 +1,22 @@
+Agile Scrum:
+the technical officer lays down the following metrics representing critical success factor to measure the benefits of scrum and its
+constant improvement across sprints
+
+1. velocity
+2. value per sprint
+3. Defect density
+4. cycle time
+
+the list of Metric along with it's formula are:
+
+value per sprint(throughout) = revenue/value of delivered feature per sprint or release
+bug fix - productivity = total no of bug fixed/person month
+velocity = number of stories point by the team/sprint
+effort variance = ((Actual release effor - estimated release effort)/estimated release effort)*100
+cycle time = average time taken for user story from identification to deployment
+defect density = total number of defects from sprint review/actual size delivered
+residual defect density = total defects raised post UAT or in production/total story point delivered
+% rework = effort spend on rework or retest/total effort for sprint
+testing effectiveness = valid defect caught from testing / total defects * 100
+testing quality = total defects slipped or caught by client / total test cases executed during ST or SIT
+total % of test automated = number of test cases automated / total number of test cases
