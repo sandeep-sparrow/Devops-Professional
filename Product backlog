@@ -1,0 +1,12 @@
+Product backlog is the pending list of items to be developed. product owner manages the product backlog, which is owned by the product owner.
+the items are generally represented in form of user stories, the product backlog can undergo changes anytime during 
+the project and groomed across the sprint
+ 
+the INVEST principle coined by bill wake can be used for writing good user stories and reviewing them.
+
+I - Independent
+N - Negotiate
+V - Valuable
+E - Estimate
+S - Small
+T - Testable
