@@ -1,0 +1,44 @@
+once the vision statement is explained and understood, the focus shifts to writing user stories
+
+technical officer on client side and the scrum team collect inputs from the stakeholder and make a list of
+required features categorizing them into modules. the technical officer arranges for a user story writing
+workshop with all the 5 scrum teams. here is the first story written based on the product cancellation feature.
+
+"As a EasyGrab online customer who has booked a product, i want to cancel my product booking, so that i
+can receive refund"
+
+what are user stories?
+short, simple desriptions of a feature told from the prespective of the business user who
+desires the new capability. to implement the above example story, we need know the following
+
+what is the logic for cancellation and refund?
+
+components of user story
+1. card
+2. confirmation
+3. conversation
+
+card:
+user stories are often written on index cards or sticky notes and arranged on walls or tables to facilitate
+planning and discussion.
+
+confirmation:
+eash user story has a set of acceptance criteria provided by the product owner in consultation with the
+development team, tagged to it. there should be meet for the user story to be considered as "done"
+
+  1. verify that there is user, product and purchase authentication before cancellation
+  2. verify that product price is refunded without any deduction to the payment source
+  3. verify that confirmation email is send to the customer
+  4. verify that the stock is updated for the product
+  
+ converation:
+ development team should have conversation with the product owner in understanding the expectations
+ about the user story before implementing it.
+ 
+ when and who writes user stories?
+ In general, a workshop lasting from a few hours to a few days where a diverse team comprising of product 
+ owner, development team, scrum master collectively brainstorms desired buiness value and creates user
+ story placeholders for what the product or service is supposed to do. user stories can be written and refined
+ by anyone of them however, the final call on the story is on the product owner. user stories can be
+ groomed and written across the sprint.
+ 
